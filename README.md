@@ -1,6 +1,6 @@
-# Quasar App
+# Brewen 
 
-> A Quasar project
+> A Brew Monitoring App
 
 ## Build Setup
 
